@@ -1,0 +1,13 @@
+body {
+    background-color: brown;
+    color: rgb(254, 4, 254);
+}
+span {
+    font-weight: bold;
+    color: black;
+}
+strong{
+    color: aqua;
+    border: 1px solid #2d2d2d;
+    padding: 10px;
+}
